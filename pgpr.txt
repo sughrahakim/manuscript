@@ -2,3 +2,4 @@ ensifer
 bradyrhizobium
 rhizobium
 mesorhizobium
+Acinetobacter
