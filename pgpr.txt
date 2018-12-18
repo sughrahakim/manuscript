@@ -2,4 +2,3 @@ ensifer
 bradyrhizobium
 rhizobium
 mesorhizobium
-
